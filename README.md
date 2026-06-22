@@ -1,4 +1,5 @@
 # machineLearning
+Machine Learning (ML) is a subset of Artificial Intelligence (AI) that allows computers to learn from data, facilitating predictions or decisions without the need for explicit programming for each individual task.
 # Machine Learning Projects
 
 Welcome to my Machine Learning Projects repository! This repository contains beginner-friendly machine learning projects implemented using Python and popular data science libraries.
